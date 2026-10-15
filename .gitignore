@@ -1,0 +1,7 @@
+.neon
+.env
+.env.*
+!.env.example
+node_modules/
+backend/node_modules/
+backend/generated-pdfs/
